@@ -70,6 +70,7 @@
     <Content Include="img\logo.png" />
     <Content Include="user.aspx" />
     <Content Include="Web.config" />
+    <Content Include="ContactForm.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="main.Master.cs">
@@ -86,6 +87,13 @@
     </Compile>
     <Compile Include="user.aspx.designer.cs">
       <DependentUpon>user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactForm.aspx.cs">
+      <DependentUpon>ContactForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactForm.aspx.designer.cs">
+      <DependentUpon>ContactForm.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
