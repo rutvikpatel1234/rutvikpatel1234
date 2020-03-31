@@ -110,3 +110,13 @@ C:\Users\qpm5\Desktop\SalesforceUI\rutvikpatel1234\UI\obj\Debug\UI.csproj.CoreCo
 C:\Users\qpm5\Desktop\SalesforceUI\rutvikpatel1234\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\qpm5\Desktop\SalesforceUI\rutvikpatel1234\UI\obj\Debug\UI.dll
 C:\Users\qpm5\Desktop\SalesforceUI\rutvikpatel1234\UI\obj\Debug\UI.pdb
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\bin\UI.dll.config
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\bin\UI.dll
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\bin\UI.pdb
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\obj\Debug\UI.dll
+C:\Users\rutvi\Downloads\rutvikpatel1234-master\rutvikpatel1234-master\UI\obj\Debug\UI.pdb
